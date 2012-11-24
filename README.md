@@ -1,4 +1,4 @@
-Weatherli is a fully functional weather app that uses the free.worldweatheronline.com api to show you the weather with a minimalist design. 
+Weatherli is a fully functional weather app that uses the free.worldweatheronline.com api to show you the weather with a minimalist design. It also uses the Climacons from Adam Whitcroft. 
 
 ![Smaller icon](http://dribbble.s3.amazonaws.com/users/14268/screenshots/553778/attachments/41129/weather-explained.jpg "Title here")
 
